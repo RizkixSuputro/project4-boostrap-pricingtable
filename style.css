@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,regular,500,600,700,800,300italic,italic,500italic,600italic,700italic,800italic);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #5a5b9a;
+}
+.card-header h2 {
+  font-family: "Poppins", serif;
+  font-weight: bold;
+}
+.card-title {
+  font-family: "Poppins", serif;
+  font-size: 5rem;
+  font-weight: bold;
+  color: #566ef4;
+}
+
+.card-text {
+  font-family: "Roboto", sans-serif;
+}
+.card {
+  border-radius: 5%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.subscribe-text {
+  color: white;
+  font-family: "Poppins", serif;
+  font-weight: bold;
+}
