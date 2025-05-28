@@ -6,3 +6,30 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  background-color: #5a5b9a;
+}
+.card-header h2 {
+  font-family: "Poppins", serif;
+  font-weight: bold;
+}
+.card-title {
+  font-family: "Poppins", serif;
+  font-size: 5rem;
+  font-weight: bold;
+  color: #566ef4;
+}
+
+.card-text {
+  font-family: "Roboto", sans-serif;
+}
+.card {
+  border-radius: 5%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.subscribe-text {
+  color: white;
+  font-family: "Poppins", serif;
+  font-weight: bold;
+}
